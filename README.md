@@ -1,29 +1,73 @@
-# 🛍️ E-Commerce Project
+<div align="center">
+  <img src="Readme assets/thumbnail.svg" alt="Project Logo" width="120">
+  <h1>🛍️ E-Commerce Project</h1>
+  <p><i>A lightweight, purely frontend e-commerce web application built for the <b>UMBB WAD Homework (2025/2026)</b>.</i></p>
 
-A lightweight, purely frontend e-commerce web application built for the **UMBB WAD Homework (2025/2026)**.
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </p>
+</div>
 
-This project simulates a fully functional clothing store focusing on three main categories: **Women's Clothing**, **Men's Clothing**, and **Kids' Clothing**. All data (authentication, cart, checkout) is handled client-side using JavaScript and `localStorage` to meet the "No-PHP" constraint.
+---
 
-## ✨ Features
+## 📺 Project Demo
 
-- **User Authentication:** Dummy login system with predefined accounts.
-- **Product Catalog:** Browse products across three distinct clothing categories.
-- **Shopping Cart:** Add/remove items, update quantities, and view a dynamic sidebar summary.
-- **Checkout System:** Calculate total costs and save order history locally.
-- **Responsive Design:** Clean and accessible layout purely written in HTML & CSS.
+https://github.com/user-attachments/assets/Home%20page.mp4
+*(Note: If the video above doesn't play, you can find it in the [Readme assets](Readme%20assets/Home%20page.mp4) folder)*
+
+<div align="center">
+  <video src="Readme assets/Home page.mp4" width="100%" controls></video>
+</div>
+
+---
+
+## ✨ Key Features
+
+### 🔐 Seamless Authentication
+Experience a smooth login flow with our dummy authentication system.
+<br>
+<img src="Readme assets/login.gif" alt="Login Demo" width="100%">
+
+### 🛒 Dynamic Product Interaction
+Interact with products using dynamic cards and a real-time cart system.
+<br>
+<img src="Readme assets/Product card.gif" alt="Product Interaction" width="100%">
+
+---
+
+## 👗 Clothing Categories
+
+Browse through our curated collections for everyone.
+
+| Men's Clothing | Women's Clothing | Kids' Clothing |
+| :---: | :---: | :---: |
+| <img src="Readme assets/Men clothing.png" width="250"> | <img src="Readme assets/Women clothing.png" width="250"> | <img src="Readme assets/Kids clothing.png" width="250"> |
+
+---
 
 ## 💻 Tech Stack
 
-- **HTML5:** Semantic architecture
-- **CSS3:** Custom styling and responsive layouts
-- **JavaScript (ES6):** DOM manipulation, Cart logic, and `sessionStorage/localStorage` management.
+- **HTML5:** Semantic architecture for better accessibility and SEO.
+- **CSS3:** Custom styling, glassmorphism effects, and responsive layouts.
+- **JavaScript (ES6):** DOM manipulation, cart logic, and local state management via `sessionStorage/localStorage`.
+
+---
 
 ## 🚀 How to Run Locally
 
-You don't need any server, database, or backend setup to preview the project:
+No server or database setup is required. The project is ready to go!
 
-1. Clone this repository directly to your machine.
-2. Open `index.html` in your preferred web browser.
-3. Log in using one of the mock accounts (e.g., *admin* / *1234*).
-4. Start adding items to your cart!
+1. **Clone** this repository to your local machine.
+2. **Open** `index.html` in any modern web browser.
+3. **Login** using the default credentials:
+   - **Username:** `admin`
+   - **Password:** `1234`
+4. **Enjoy** shopping!
 
+---
+
+<div align="center">
+  <p>Built with ❤️ for the UMBB WAD Course</p>
+</div>
