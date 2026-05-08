@@ -14,11 +14,8 @@
 
 ## 📺 Project Demo
 
-https://github.com/user-attachments/assets/Home%20page.mp4
-*(Note: If the video above doesn't play, you can find it in the [Readme assets](Readme%20assets/Home%20page.mp4) folder)*
-
 <div align="center">
-  <video src="Readme assets/Home page.mp4" width="100%" controls></video>
+  <img src="Readme assets/Home page.gif" alt="Home Page Demo" width="100%">
 </div>
 
 ---
@@ -34,6 +31,11 @@ Experience a smooth login flow with our dummy authentication system.
 Interact with products using dynamic cards and a real-time cart system.
 <br>
 <img src="Readme assets/Product card.gif" alt="Product Interaction" width="100%">
+
+### 🛍️ Cart Management
+Manage your selected items efficiently with an interactive shopping cart.
+<br>
+<img src="Readme assets/Cart page.gif" alt="Cart Demo" width="100%">
 
 ---
 
