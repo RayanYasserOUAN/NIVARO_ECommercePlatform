@@ -42,6 +42,8 @@ Manage your selected items efficiently with an interactive shopping cart.
 ## 👗 Clothing Categories
 
 Browse through our curated collections for everyone.
+<br>
+<img src="Readme assets/Categorie section.gif" alt="Category Navigation" width="100%">
 
 | Men's Clothing | Women's Clothing | Kids' Clothing |
 | :---: | :---: | :---: |
